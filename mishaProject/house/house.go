@@ -10,10 +10,9 @@ import (
 )
 
 type House struct {
-	Size        float64
-	City        string
-	HouseFamily []family.Family
-
+	Size             float64
+	City             string
+	HouseFamily      []family.Family
 	HouseFurniture   []furniture.Furniture
 	HouseChildren    []children.Children
 	HouseRooms       []rooms.Rooms

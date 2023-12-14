@@ -1,11 +1,11 @@
 package house
 
 import (
-	"MishaProject/mishaProject/children"
-	"MishaProject/mishaProject/decorations"
-	"MishaProject/mishaProject/family"
-	"MishaProject/mishaProject/furniture"
-	"MishaProject/mishaProject/rooms"
+	"MishaProject/project/children"
+	"MishaProject/project/decorations"
+	"MishaProject/project/family"
+	"MishaProject/project/furniture"
+	"MishaProject/project/rooms"
 	"fmt"
 )
 
